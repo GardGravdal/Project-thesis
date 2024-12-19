@@ -1,5 +1,4 @@
 #######################################################################
-## Didrik Sand, September 2024
 # Script is based on code from Stefanie Muff
 ## This script is used to extract the data needed for to create the pseduo-response from the phenotype
 # The script should not be run directly, but through the Makefile
